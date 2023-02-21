@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SelenideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-20T21:55:56" hostname="DESKTOP-I5758HF" time="13.745">
+<testsuite name="SelenideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-20T22:14:19" hostname="DESKTOP-I5758HF" time="13.574">
   <properties/>
-  <testcase name="positiveTest()" classname="SelenideTest" time="13.745"/>
+  <testcase name="positiveTest()" classname="SelenideTest" time="13.574"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 27529
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 41351
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1676930158.581][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-февр. 21, 2023 12:55:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1676931261.393][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+февр. 21, 2023 1:14:21 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
